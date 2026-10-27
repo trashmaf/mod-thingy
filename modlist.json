@@ -1,0 +1,45 @@
+[
+  {
+    "title": "CyberVision",
+    "description": "CyberVision is a massive Cyberpunk 2077 modlist with over 1500 mods, designed for immersive gameplay and visual fidelity. Focuses on roleplay, realism, and quality of life, supporting English and French profiles. Works best on Very Hard difficulty.",
+    "author": "Neishin",
+    "maintainers": [
+      "github/Neishinlol"
+    ],
+    "game": "cyberpunk2077",
+    "official": true,
+    "tags": [
+      "Steam",
+      "GOG",
+      "Combat Overhaul",
+      "Total Overhaul"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": true,
+    "links": {
+      "image": "https://i.ibb.co/fGVt4gX0/Mise-jour-cyberpunk-en-n-ons-rugissants.png",
+      "readme": "https://github.com/Neishinlol/CyberVision/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/CyberVision.wabbajack_8eed5792-0d94-4e81-b91e-9b07cbc34693",
+      "machineURL": "NeishinCyberVision",
+      "discordURL": "https://discord.com/invite/WSFgf5S7wS",
+      "websiteURL": "https://www.nexusmods.com/cyberpunk2077/mods/27691",
+      "nexusCollection": null
+    },
+    "download_metadata": {
+      "Hash": "BdA2001lcIE=",
+      "Size": 18724938,
+      "NumberOfArchives": 1913,
+      "SizeOfArchives": 85612540977,
+      "NumberOfInstalledFiles": 16181,
+      "SizeOfInstalledFiles": 81695127564,
+      "TotalSize": 167307668541
+    },
+    "version": "3.6.0",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2026-10-04T16:53:39.1218754Z",
+    "repositoryName": ""
+  }
+]
